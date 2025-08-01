@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1739001709 source:c:\users\ppppp\3d objects\project\my project\main.cpp
+	<iostream>
+	<fstream>
+

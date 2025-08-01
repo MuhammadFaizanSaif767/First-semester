@@ -1,0 +1,6 @@
+ID       NAME          QUANTITY                PRICE
+2        table             1             2000
+1        chair             21             1234
+3        bed             50             5000
+4        bat             34             5000
+5        box             31             600
